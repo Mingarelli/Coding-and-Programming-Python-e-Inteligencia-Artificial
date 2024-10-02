@@ -1,1 +1,2 @@
-# Coding-and-Programming-Python-e-Intelig-ncia-Artificial-
+Coding and Programming Python e Inteligência Artificial 
+O
