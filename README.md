@@ -43,3 +43,5 @@ O Quiz do Capítulo 2 aborda os seguintes conteúdos, divididos em unidades:
 -Unidade 16. Conjuntos
 
 -Quiz. Encerrando o capítulo 2
+
+O arquivo intitulado 'QuizCapitulo2.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
