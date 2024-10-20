@@ -60,4 +60,4 @@ O Quiz do Capítulo 3 aborda os seguintes conteúdos, dividos em unidades:
 
 -Unidade 21. Classes
 
--Encerrando o capítulo 2
+-Encerrando o capítulo 3
