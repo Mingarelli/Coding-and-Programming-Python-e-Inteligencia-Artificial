@@ -61,3 +61,5 @@ O Quiz do Capítulo 3 aborda os seguintes conteúdos, dividos em unidades:
 -Unidade 21. Classes
 
 -Encerrando o capítulo 3
+
+O arquivo intitulado 'QuizCapitulo3.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
