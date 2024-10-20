@@ -45,3 +45,19 @@ O Quiz do Capítulo 2 aborda os seguintes conteúdos, divididos em unidades:
 -Quiz. Encerrando o capítulo 2
 
 O arquivo intitulado 'QuizCapitulo2.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
+
+O Quiz do Capítulo 3 aborda os seguintes conteúdos, dividos em unidades:
+
+-O que vou aprender neste capítulo
+
+-Unidade 17. Função
+
+-Unidade 18. Chamada de Função Recursiva
+
+-Unidade 19. Lambda
+
+-Unidade 20. Clasura(Closure)
+
+-Unidade 21. Classes
+
+-Encerrando o capítulo 2
