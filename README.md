@@ -66,8 +66,6 @@ O arquivo intitulado 'QuizCapitulo3.ipynb' contém a solução do problema, incl
 
 O Quiz do Capítulo 4 aborda os seguintes conteúdos, dividos em unidades:
 
--O que vou aprender neste capítulo
-
 -Unidade 22. Pilha
 
 -Unidade 23. Fila
