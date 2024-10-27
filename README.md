@@ -63,3 +63,19 @@ O Quiz do Capítulo 3 aborda os seguintes conteúdos, dividos em unidades:
 -Encerrando o capítulo 3
 
 O arquivo intitulado 'QuizCapitulo3.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
+
+O Quiz do Capítulo 4 aborda os seguintes conteúdos, dividos em unidades:
+
+-O que vou aprender neste capítulo
+
+-Unidade 22. Pilha
+
+-Unidade 23. Fila
+
+-Unidade 24. Pesquisa Sequencial
+
+-Unidade 25. `Pesquisa Binaria
+
+-Unidade 26. Tabela Hash
+
+O arquivo intitulado 'QuizCapitulo4.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
