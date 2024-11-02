@@ -46,7 +46,7 @@ O Quiz do Capítulo 2 - Tipos de dados sequenciais em Python, aborda os seguinte
 
 O arquivo intitulado 'QuizCapitulo2.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
 
-O Quiz do Capítulo 3 - Funções, Closure e Classes aborda os seguintes conteúdos, dividos em unidades:
+O Quiz do Capítulo 3 - Funções, Closure e Classes, aborda os seguintes conteúdos, dividos em unidades:
 
 -O que vou aprender neste capítulo
 
