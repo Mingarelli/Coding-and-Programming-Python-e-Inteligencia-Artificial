@@ -4,7 +4,7 @@ Quiz de Resoluções do Curso de Coding and Programming (Python e Inteligência 
 
 Ambiente de desenvolvimento utilizado é o Google Colab.
 
-O Quiz do Capítulo 1 aborda os seguintes conteúdos, divididos em unidades:
+O Quiz do Capítulo 1 - Conceitos Básicos de Python, aborda os seguintes conteúdos, divididos em unidades:
 
   -Unidade 1. Primeiros passos
 
@@ -26,7 +26,7 @@ O Quiz do Capítulo 1 aborda os seguintes conteúdos, divididos em unidades:
 
 O arquivo intitulado 'QuizCapitulo1.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
 
-O Quiz do Capítulo 2 aborda os seguintes conteúdos, divididos em unidades:
+O Quiz do Capítulo 2 - Tipos de dados sequenciais em Python, aborda os seguintes conteúdos, divididos em unidades:
 
 -Unidade 10. Listas e Tuplas
 
@@ -46,7 +46,7 @@ O Quiz do Capítulo 2 aborda os seguintes conteúdos, divididos em unidades:
 
 O arquivo intitulado 'QuizCapitulo2.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
 
-O Quiz do Capítulo 3 aborda os seguintes conteúdos, dividos em unidades:
+O Quiz do Capítulo 3 - Funções, Closure e Classes aborda os seguintes conteúdos, dividos em unidades:
 
 -O que vou aprender neste capítulo
 
@@ -64,7 +64,7 @@ O Quiz do Capítulo 3 aborda os seguintes conteúdos, dividos em unidades:
 
 O arquivo intitulado 'QuizCapitulo3.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
 
-O Quiz do Capítulo 4 aborda os seguintes conteúdos, dividos em unidades:
+O Quiz do Capítulo 4  - Estrutura de Dados, aborda os seguintes conteúdos, dividos em unidades:
 
 -Unidade 22. Pilha
 
@@ -77,3 +77,13 @@ O Quiz do Capítulo 4 aborda os seguintes conteúdos, dividos em unidades:
 -Unidade 26. Tabela Hash
 
 O arquivo intitulado 'QuizCapitulo4.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
+
+O Quiz do Capítulo 5 - Algoritmos de Classificação, aborda os seguintes conteúdos, dividos em unidades:
+
+-Unidade 27. Ordenação por flutuação, seleção e inserção
+
+-Unidade 28. Ordenação por mistura
+
+-Unidade 29. Ordenação por eficiência
+
+O arquivo intitulado 'QuizCapitulo5.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
