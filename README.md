@@ -87,3 +87,15 @@ O Quiz do Capítulo 5 - Algoritmos de Classificação, aborda os seguintes conte
 -Unidade 29. Ordenação por eficiência
 
 O arquivo intitulado 'QuizCapitulo5.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
+
+O Quiz do Capítulo 6 - Solucionando Problemas com Algoritmos, aborda os seguintes conteúdos, dividos em unidades:
+
+-Unidade 30. Algoritmo Guloso (Greedy)
+
+-Unidade 31. Dividir e Conquistar
+
+-Unidade 32. Programação Dinâmica
+
+-Unidade 33. Backtracking
+
+O arquivo intitulado 'QuizCapitulo6.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
