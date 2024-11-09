@@ -99,3 +99,17 @@ O Quiz do Capítulo 6 - Solucionando Problemas com Algoritmos, aborda os seguint
 -Unidade 33. Backtracking
 
 O arquivo intitulado 'QuizCapitulo6.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
+
+O Quiz do Capítulo 7 - Módulos de Python e Dados de series Temporais, aborda os seguintes conteúdos, dividos em unidades:
+
+-Unidade 34. Utilizando módulos de Python
+
+-Unidade 35. Pandas Series para processamento de dados
+
+-Unidade 36. Pandas DataFrame para processamento de dados
+
+-Unidade 37. Data tidying(organização de dados)
+
+-Unidade 38. Dados de séries temporais
+
+O arquivo intitulado 'QuizCapitulo7.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
