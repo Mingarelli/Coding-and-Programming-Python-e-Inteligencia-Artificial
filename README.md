@@ -113,3 +113,15 @@ O Quiz do Capítulo 7 - Módulos de Python e Dados de series Temporais, aborda o
 -Unidade 38. Dados de séries temporais
 
 O arquivo intitulado 'QuizCapitulo7.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
+
+O Quiz de Introdução à Inteligência Artificial - Processamento de linguagem natural e modelos de linguagem para mineração de texto, aborda os seguintes conteúdos, dividos em unidades:
+
+-Unidade 1: Mineração de Texto
+
+-Unidade 2: Pré-processamento de texto
+
+-Unidade 3: Modelo de linguagem
+
+-Unidade 4: Processamento de linguagem natural com Keras
+
+O arquivo intitulado 'QuizCapituloIA.ipynb' contém a solução do problema, incluindo o código comentado e o enunciado correspondente.
